@@ -2,7 +2,6 @@
   Frontend:
     - Material UI
     - Recoil JS
-    -
     
  Backend:
   - C# Entity framework
