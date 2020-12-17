@@ -1,7 +1,8 @@
 # cidadealta-bank
+
   Frontend:
-    - Material UI
-    - Recoil JS
+  - Material UI
+  - Recoil JS
     
  Backend:
   - C# Entity framework
